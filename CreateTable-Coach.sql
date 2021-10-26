@@ -3,3 +3,9 @@ Create Table Coach (
 	CoachName varchar(100),
 	StartYear int,
 	)
+
+Create Table Shot (
+	PointsScored int,
+	)
+
+
